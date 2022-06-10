@@ -1,0 +1,7 @@
+img{
+    width: 500px;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}

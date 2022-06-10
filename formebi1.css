@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu{
+    width: 300px;
+    padding: 20px;
+    margin:0 auto;
+    border: 5px solid #000000;
+}
+.menu input{
+    width: 250px;
+    margin: 25px;
+}
